@@ -37,7 +37,7 @@ open ~/Library/Developer/Xcode/DerivedData
 找到你刚刚编译的项目(你编译的项目/Logs/Build/XXX.xcactivitylog)
 <br/>
 ### 通过脚本分析数据
-下载脚本 [swift_build_analysis_tool](https://github.com/xurunkang/swift_build_analysis_tool)
+下载项目中 build_analysis_tool.py
 <br/>
 ### 使用说明
 <p class="img-tip" data-str="使用说明"><img src="https://sf3-ttcdn-tos.pstatp.com/img/tos-cn-v-0000/823e1a9838f645e287d0ad2768dd40f2~noop.png" height="440" width="1140"/></p>
